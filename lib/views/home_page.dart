@@ -97,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return DropdownButton(
       borderRadius: BorderRadius.circular(20),
 
-      style: TextStyle(
+      style: const TextStyle(
         color: Colors.orange,
         fontSize: 10,
       ),
